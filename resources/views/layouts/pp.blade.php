@@ -75,7 +75,7 @@
                             </span>
                         </a>
 
-                        <a href="" class="logo logo-light">
+                        <a href="{{ url('/') }}" class="logo logo-light">
                             <span class="logo-sm"> 
                                 <img src="{{ asset('images/dataaudit.jpg') }}" alt="logo-sm-light" height="40">
                             </span>
